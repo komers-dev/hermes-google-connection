@@ -1,0 +1,6 @@
+title: Hermes Personal
+description: Личный локальный помощник для почты и календаря
+theme: jekyll-theme-minimal
+url: https://komers-dev.github.io
+baseurl: /hermes-google-connection
+lang: ru
